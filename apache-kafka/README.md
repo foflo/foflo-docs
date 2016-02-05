@@ -1,3 +1,4 @@
+![alt text](https://foflo.github.io/images/kafka-logo-wide.png "Apache Kafka")
 #Apache-kafka
 Apache Kafka is publish-subscribe messaging rethought as a distributed commit log.
 
